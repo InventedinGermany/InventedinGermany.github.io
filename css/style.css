@@ -1,0 +1,21 @@
+.content {
+    margin-top: 80px;
+}
+
+.first {
+    margin-top: 80px;
+    
+}
+
+.navbar-text {
+    color: white;
+}
+
+.margin-all {
+    margin: 10px 10px 10px 10px;   
+}
+
+.navbar-logo {
+  position: top left;
+  height: 30px;
+}
